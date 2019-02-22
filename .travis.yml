@@ -2,3 +2,4 @@ os: osx
 osx_image: xcode10.1
 xcode_xcworkspace: TestTravisCI.xcworkspace
 xcode_scheme: TestTravisCI
+language: swift
