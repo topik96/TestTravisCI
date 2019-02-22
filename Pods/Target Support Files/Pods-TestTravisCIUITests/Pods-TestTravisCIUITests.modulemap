@@ -1,0 +1,6 @@
+framework module Pods_TestTravisCIUITests {
+  umbrella header "Pods-TestTravisCIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
